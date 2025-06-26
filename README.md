@@ -17,4 +17,3 @@ En tant qu'Alternant Data Analyst & Data Engineer chez CAMPUS ESPL, j'ai contrib
 - **Outils et technologies** :  
   - **Python**, **SQL**, **Power BI**  
   - **Git**, **Linux**, environnements de développement collaboratif  
-
