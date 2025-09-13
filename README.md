@@ -25,4 +25,4 @@ Au sein de l'équipe, j'étais chargé d'optimiser et d'automatiser le pipeline 
 - Amélioration de la collaboration inter-équipes, grâce à une base de reporting commune et standardisée.  
 
 ## Environnement technique  
-- Python, SQL,
+- Python, SQL, Linux
